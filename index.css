@@ -70,10 +70,6 @@ table {
     border-collapse: collapse;
 }
 
-td {
-     font-size: 1em;
-}
-
 td:first-child {
     width: 150px;
 }
